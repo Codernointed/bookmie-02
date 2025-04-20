@@ -61,6 +61,15 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				// Bookmie custom colors
+				bookmie: {
+					orange: '#fbb03b',
+					white: '#ffffff',
+					'space-cadet': '#1e2755',
+					'space-cadet-2': '#302f45',
+					'floral-white': '#fbf9ee',
+					'space-cadet-3': '#172554'
 				}
 			},
 			borderRadius: {
